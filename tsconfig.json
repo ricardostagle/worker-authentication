@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		//    "alwaysStrict": true,
+		"strict": true,
+		"types": ["@cloudflare/workers-types"],
+		"allowJs": true,
+		"moduleResolution": "node"
+	},
+	"include": ["src"]
+}
